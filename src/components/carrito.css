@@ -1,0 +1,9 @@
+.carrito{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: rgb(241, 241, 241);
+    width: 400px;
+    padding: 20px;
+    text-transform: uppercase;
+}
